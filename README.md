@@ -19,3 +19,14 @@
 ![](https://blog.hidove.cn/usr/uploads/2019/11/2770325897.png)
 
 ![](https://blog.hidove.cn/usr/uploads/2019/11/2718157264.png)
+
+## 兰空图床安装地址
+```
+https://github.com/wisp-x/lsky-pro
+
+目录权限设置为 777 否则报错
+config
+application
+runtime
+public 
+```
